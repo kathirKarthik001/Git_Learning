@@ -1,0 +1,6 @@
+This is just a test file created in vs code to be 
+
+=>inserted        in this vs code folder 
+===> added        in staging table 
+====> commited    to the local clone repo 
+======> Pushed    into remote repo (github online)
